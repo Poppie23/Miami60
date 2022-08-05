@@ -1,0 +1,15 @@
+nav {
+    font-family: 'Berkshire Swash', cursive;
+background-color: orange;
+/* text-align: left; */
+}
+body {
+background-color: chartreuse;
+font-size: 25px;
+}
+h1{
+    font-size: 35px;
+    float: right;
+}
+
+
